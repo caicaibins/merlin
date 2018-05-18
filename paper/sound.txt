@@ -1,0 +1,7 @@
+
+
+1.Robust Sound Event Classification Using Deep Neural Networks
+2.DNN-based Environmental Sound Recognition with Real- recorded and Artificially-mixed Training Data
+3 a comparison of Deep Learning methods for environmental sound detection
+
+

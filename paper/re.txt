@@ -1,0 +1,20 @@
+1 Unit selection in a concatenative speech synthesis system using a large speech database
+2 Multisyn: Open-domain unit selection for the Festival speech synthesis system
+3 Deep neural network-guided unit selection synthesis
+4 Joint prosody prediction and unit selection for concatenative speech synthesis
+5 H. Zen, K. Tokuda, A. W. Black. Statistical parametric speech synthesis Speech Communication, Vol. 51, no. 11, pp. 1039-1064, 2009.
+
+
+
+2018.4.26
+1. Deep neural network-guided unit selection synthesis
+2. On the training aspects of Deep Neural Network (DNN) for parametric TTS synthesis
+3.Template based techniques for automatic segmentation of TTS unit database
+4.HMM-based speech segmentation: improvements of fully automatic approaches
+5. From HMMS to DNNS: Where do the improvements come from?
+6.WORLD: a vocoder-based high-quality speech synthesis system for real-time applications
+
+
+2018.05.08
+
+Cute: A concatenative method for voice conversion using exemplar-based unit selection
